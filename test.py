@@ -12,7 +12,7 @@ def odejmij(a,b):
 	return a-b
 
 pierwsza = input()
-druga = input
+druga = input()
 print (dodaj(pierwsza, druga))
 
 
